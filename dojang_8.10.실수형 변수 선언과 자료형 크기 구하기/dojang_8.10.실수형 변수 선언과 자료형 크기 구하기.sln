@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dojang_8.10.실수형 변수 선언과 자료형 크기 구하기", "dojang_8.10.실수형 변수 선언과 자료형 크기 구하기\dojang_8.10.실수형 변수 선언과 자료형 크기 구하기.vcxproj", "{76D9712F-00AC-4199-905B-BE20E51C27CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76D9712F-00AC-4199-905B-BE20E51C27CC}.Debug|x64.ActiveCfg = Debug|x64
+		{76D9712F-00AC-4199-905B-BE20E51C27CC}.Debug|x64.Build.0 = Debug|x64
+		{76D9712F-00AC-4199-905B-BE20E51C27CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{76D9712F-00AC-4199-905B-BE20E51C27CC}.Debug|x86.Build.0 = Debug|Win32
+		{76D9712F-00AC-4199-905B-BE20E51C27CC}.Release|x64.ActiveCfg = Release|x64
+		{76D9712F-00AC-4199-905B-BE20E51C27CC}.Release|x64.Build.0 = Release|x64
+		{76D9712F-00AC-4199-905B-BE20E51C27CC}.Release|x86.ActiveCfg = Release|Win32
+		{76D9712F-00AC-4199-905B-BE20E51C27CC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD930D0C-74EE-4B7F-A9EB-329E032DAD7C}
+	EndGlobalSection
+EndGlobal

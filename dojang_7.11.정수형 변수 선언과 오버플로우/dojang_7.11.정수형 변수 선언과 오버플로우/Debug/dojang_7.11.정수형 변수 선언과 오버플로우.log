@@ -1,0 +1,4 @@
+﻿  dojang_7.11.c
+C:\Users\sneer\source\repos\[STUDY] C.dojang\dojang_7.11.정수형 변수 선언과 오버플로우\dojang_7.11.정수형 변수 선언과 오버플로우\dojang_7.11.c(9,17): warning C4305:  '=': 'int'에서 'unsigned short'(으)로 잘립니다.
+C:\Users\sneer\source\repos\[STUDY] C.dojang\dojang_7.11.정수형 변수 선언과 오버플로우\dojang_7.11.정수형 변수 선언과 오버플로우\dojang_7.11.c(10,22): warning C4305:  '=': '__int64'에서 'unsigned int'(으)로 잘립니다.
+  dojang_7.11.정수형 변수 선언과 오버플로우.vcxproj -> C:\Users\sneer\source\repos\[STUDY] C.dojang\dojang_7.11.정수형 변수 선언과 오버플로우\Debug\dojang_7.11.정수형 변수 선언과 오버플로우.exe
